@@ -1,5 +1,7 @@
 # Frontend Mentor - Intro section with dropdown navigation
 
+SOLUTION DEMO: https://introsectionle.netlify.app/
+
 ![Design preview for the Intro section with dropdown navigation coding challenge](./assets/design/desktop-preview.jpg)
 
 ## Welcome! 👋
